@@ -1,0 +1,5 @@
+,car terms,contains geoname,processed term,POS tag
+0,Red automobile,False,automobile,['NN']
+1,Citroën,False,citroën,['NN']
+4,piston (engine part),False,piston (engine part),"['NN', 'NN', 'NN']"
+5,gasoline,False,gasoline,['NN']
